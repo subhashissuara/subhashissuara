@@ -11,17 +11,18 @@
 - 📫 You can reach me at **subhashissuara@gmail.com**
 
 #### <img src="https://media.giphy.com/media/VeerK4hE9sjoB8e6OQ/giphy.gif" width="50"> Connect with me
-&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p align = "center">
 <a href="https://linkedin.com/in/subhashissuara" >
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+  <img alt="LinkedIn" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>&nbsp;&nbsp;
 <a href="https://github.com/subhashissuara">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+  <img alt="Github" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>&nbsp;&nbsp;
 <a href="https://t.me/subhashissuara">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<br/>
+  <img alt="Telegram" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>&nbsp;&nbsp;
+</p>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
