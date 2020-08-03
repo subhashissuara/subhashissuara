@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" height="30" />, I'm Subhashis Suara</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" height="30"/>, I'm Subhashis Suara</h1>
 <h3 align="center">CSE '23 at Xavier University, Bhubaneswar</h3>
 
 
@@ -9,8 +9,8 @@
 - 📫 You can reach me at **subhashissuara@gmail.com**
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=subhashissuara&show_icons=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=subhashissuara&hide=css,html">
+  <img src = "https://github-readme-stats.vercel.app/api?username=subhashissuara&show_icons=true&theme=algolia&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=subhashissuara&theme=algolia&hide=css,html">
 </p>
 
 
