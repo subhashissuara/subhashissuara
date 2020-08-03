@@ -18,10 +18,9 @@
 </p>
 
 
-
-
-
-<a href="https://linkedin.com/in/subhashissuara">
+#### <img src="https://media.giphy.com/media/VeerK4hE9sjoB8e6OQ/giphy.gif" width="50"> Connect with me here ->
+<span width="30px"></span>
+<a href="https://linkedin.com/in/subhashissuara" >
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/subhashissuara">
