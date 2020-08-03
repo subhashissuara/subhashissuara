@@ -11,7 +11,7 @@
 - 📫 You can reach me at **subhashissuara@gmail.com**
 
 #### <img src="https://media.giphy.com/media/VeerK4hE9sjoB8e6OQ/giphy.gif" width="50"> Connect with me
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/subhashissuara" >
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
