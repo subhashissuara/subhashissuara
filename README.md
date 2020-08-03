@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhashis Suara</h1>
 <h3 align="center">CSE '23 at Xavier University, Bhubaneswar</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashissuara" alt="subhashissuara" /> </p>
 
 - 🔭 I’m currently working on [ChatQube](https://chatqube.subhashissuara.tech/)
 
