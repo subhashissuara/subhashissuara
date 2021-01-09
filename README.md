@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" height="30"/>, I'm Subhashis Suara</h1>
+<h1 align="center">Hi <img src="./github.gif" width="30" height="30"/>, I'm Subhashis Suara</h1>
 <h3 align="center">CSE '23 at Xavier University, Bhubaneswar</h3>
 
 
