@@ -2,7 +2,7 @@
 <h3 align="center">CSE '23 at Xavier University, Bhubaneswar</h3>
 
 
-<!-- - 🔭 I’m currently working on [ChatQube](https://chatqube.subhashissuara.tech/) -->
+- 🔭 I’m currently working on [My Personal Website](https://subhashissuara.github.io/)
 
 <!-- - 👨‍💻 Some of my projects are available at [https://subhashissuara.tech/](https://subhashissuara.tech/) -->
 
