@@ -10,6 +10,7 @@
 
 - 📫 You can reach me at **subhashissuara@gmail.com**
 
+<!--
 #### <img src="https://media.giphy.com/media/VeerK4hE9sjoB8e6OQ/giphy.gif" width="50"> Connect with me
 
 <p align = "center">
@@ -23,6 +24,7 @@
   <img alt="Telegram" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>&nbsp;&nbsp;
 </p>
+-->
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
