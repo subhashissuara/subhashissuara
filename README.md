@@ -2,9 +2,9 @@
 <h3 align="center">CSE '23 at Xavier University, Bhubaneswar</h3>
 
 
-- 🔭 I’m currently working on [My Personal Website](https://subhashissuara.github.io/)
+<!-- - 🔭 I’m currently working on [My Personal Website](https://subhashissuara.github.io/) -->
 
-<!-- - 👨‍💻 Some of my projects are available at [https://subhashissuara.tech/](https://subhashissuara.tech/) -->
+<!-- - 👨‍💻 Some of my projects are available at []() -->
 
 - 💬 Ask me about anything, I am happy to help!
 
