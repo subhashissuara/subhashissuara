@@ -1,14 +1,14 @@
 <h1 align="center">Hi <img src="./github.gif" width="30" height="30"/>, I'm Subhashis Suara</h1>
-<h3 align="center">CSE '23 at Xavier University, Bhubaneswar</h3>
+<h3 align="center">CSE '23 at XIM University, Bhubaneswar</h3>
 
 
 <!-- - 🔭 I’m currently working on [My Personal Website](https://subhashissuara.github.io/) -->
 
 <!-- - 👨‍💻 Some of my projects are available at []() -->
 
-- 💬 Ask me about anything, I am happy to help!
+<!-- - 💬 Ask me about anything, I am happy to help! -->
 
-- 📫 You can reach me at **subhashissuara@gmail.com**
+<!-- - 📫 You can reach me at **subhashissuara@gmail.com** -->
 
 <!--
 #### <img src="https://media.giphy.com/media/VeerK4hE9sjoB8e6OQ/giphy.gif" width="50"> Connect with me
@@ -26,9 +26,11 @@
 </p>
 
 -->
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-
+<div align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+  <h3>Here are some stats</h3>
+</div>
+  
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=subhashissuara&show_icons=true&theme=algolia&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=subhashissuara&theme=algolia">
