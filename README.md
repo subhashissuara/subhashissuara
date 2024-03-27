@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="./github.gif" width="30" height="30"/>, I'm Subhashis Suara</h1>
-<h3 align="center">CSE '23 at XIM University, Bhubaneswar</h3>
+<h3 align="center">Site Reliability Engineer @ CERN</h3>
 
 
 <!-- - 🔭 I’m currently working on [My Personal Website](https://subhashissuara.github.io/) -->
