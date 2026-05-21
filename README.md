@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="./github.gif" width="30" height="30"/>, I'm Subhashis Suara</h1>
-<h3 align="center">Site Reliability Engineer @ CERN</h3>
+<h3 align="center">SRE / DevOps Engineer @ CERN</h3>
 
 
 <!-- - 🔭 I’m currently working on [My Personal Website](https://subhashissuara.github.io/) -->
@@ -28,12 +28,12 @@
 -->
 <div align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-  <h3>Here are some stats</h3>
+  <!-- <h3>Here are some stats</h3> -->
 </div>
   
-<p align = "center">
+<!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=subhashissuara&show_icons=true&theme=algolia&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=subhashissuara&theme=algolia">
-</p>
+</p> -->
 
 
